@@ -1,0 +1,4 @@
+¡Primera línea!
+¡Segunda línea!
+¡Última en la fila!¡Línea añadida!
+Esto va a escritos.txt! que fue creado anteriormente.
