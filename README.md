@@ -3,8 +3,6 @@
 Este repositorio contiene material relacionado con la asignatura **Fundamentos de la Programación** del **1º CFGM de Sistemas Microinformáticos y Redes**.  
 Aquí encontrarás tanto la teoría como las actividades desarrolladas durante el curso.  
 
-![Logo de Python](https://www.python.org/static/community_logos/python-logo.png)  
-
 ## 📂 Estructura del repositorio  
 
 El contenido está organizado en las siguientes carpetas:  
